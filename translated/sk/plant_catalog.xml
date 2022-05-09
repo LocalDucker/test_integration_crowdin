@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
 	<PLANT>
-		<COMMON>qq</COMMON>
-		<BOTANICAL>qwerty</BOTANICAL>
+		<COMMON>Кровавый корень</COMMON>
+		<BOTANICAL>Sanguinaria canadensis</BOTANICAL>
 		<ZONE>4</ZONE>
-		<LIGHT>LocalDucker here like translotor</LIGHT>
+		<LIGHT>По большей части тень</LIGHT>
 		<PRICE>$2.44</PRICE>
 		<AVAILABILITY>031599</AVAILABILITY>
 	</PLANT>
